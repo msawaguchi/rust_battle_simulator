@@ -5,6 +5,7 @@ This project was just a short break to practice some concepts I've learned so fa
 
 It's a very simple game in cli that simulates a battle between a wizard and a warrior, you can pick up your character and attack or defend.
 
+![battle_simulator](https://github.com/msawaguchi/rust_battle_simulator/assets/28602785/645ff033-5b4b-4cf1-9b00-d8f25c8ea74e)
 
 
 ## Get started
