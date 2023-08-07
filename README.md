@@ -14,6 +14,8 @@ Clone the repo...
 git clone https://github.com/msawaguchi/rust_battle_simulator.git
 ```
 
+and run ~!
+
 ```bash
 cd rust_battle_simulator
 cargo build
